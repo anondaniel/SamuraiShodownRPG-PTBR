@@ -2,6 +2,8 @@
 
 Tradução para português brasileiro de **Samurai Shodown RPG** (Shinsetsu Samurai Spirits Bushidō Retsuden, SNK, 1997, Neo Geo CD), feita **sobre a tradução em inglês v1.10** de moriyamug (texto) e combustocrat (arte).
 
+![capa](imagens/capa.jpg)
+
 ![telas](imagens/mosaico.png)
 
 ## Baixar o patch
