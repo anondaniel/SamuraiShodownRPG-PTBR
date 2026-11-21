@@ -7,7 +7,7 @@ Tradução para português brasileiro de **Samurai Shodown RPG** (Shinsetsu Samu
 ![telas](imagens/mosaico.png)
 
 ## Baixar o patch
-Na página de [Releases](https://github.com/anondaniel/SamuraiShodownRPG-PTBR/releases), ou direto na pasta [`patch/`](patch/): `SSRPG_PTBR_beta2.xdelta` + `LEIAME.txt` (passo a passo e hashes) + `.bat`.
+Na página de [Releases](https://github.com/anondaniel/SamuraiShodownRPG-PTBR/releases), ou direto na pasta [`patch/`](patch/): `SSRPG_PTBR_beta3.xdelta` + `LEIAME.txt` (passo a passo e hashes) + `.bat`.
 
 Este repositório **não contém o jogo nem o patch em inglês**. Use o seu dump Redump e aplique primeiro o patch em inglês v1.10 (romhacking.net); os autores pedem que não se distribuam versões já aplicadas.
 
@@ -15,13 +15,15 @@ Este repositório **não contém o jogo nem o patch em inglês**. Use o seu dump
 |---|---|
 | Original (Redump) | `6D0FAABA` |
 | Depois do patch em inglês v1.10 | `7AB83E03` |
-| Depois deste patch (PT-BR beta 2) | `F9E94E38` |
+| Depois deste patch (PT-BR beta 3) | `AE1A3A97` |
 
-## O que está traduzido (beta 2)
+## O que está traduzido (beta 3)
 - Toda a história (todos os diálogos), com acentos.
 - Mensagens de luta e a introdução "1788...".
+- Tela-título com arte nova, abas do menu, Nível, atributos (FOR, ATQ, SOR, VEL, DEF, ESQ) e tela de Ajustes.
+- Nomes dos inimigos (120 traduzidos).
 - Seleção de personagem e capítulo, controle, save/load, lojas, ferreiro, itens, equipamentos, efeitos e lugares.
-- Ainda em inglês: nomes dos inimigos, frases a pincel da abertura, algumas artes de menu. Os nomes dos golpes ficam em inglês de propósito.
+- Ainda em inglês: frases a pincel da abertura, rótulos da tela de Golpes e os nomes dos ataques dos inimigos. Os nomes dos golpes ficam em inglês de propósito.
 - Extra: START liga e desliga as lutas aleatórias no mapa.
 
 Testado no MAME e no Nintendo Switch (RetroArch, núcleo NeoCD).

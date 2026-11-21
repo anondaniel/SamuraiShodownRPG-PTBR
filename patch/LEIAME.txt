@@ -1,5 +1,5 @@
-SAMURAI SHODOWN RPG (Shinsetsu Samurai Spirits Bushidou Retsuden) - Neo Geo CD
-Tradução PT-BR - BETA 2 (build v54)
+﻿SAMURAI SHODOWN RPG (Shinsetsu Samurai Spirits Bushidou Retsuden) - Neo Geo CD
+Tradução PT-BR - BETA 3 (build v59)
 Tradução e hacking: Daniel Figueira (anondaniel)
 
 ==============================================================================
@@ -11,13 +11,18 @@ você aplica o patch em inglês oficial deles, depois este.
 
 É uma versão de teste (beta). Já em português:
  - toda a história (todos os diálogos), com acentos;
+ - tela-título com arte nova (menu Iniciar jogo / Carregar jogo / Configurações);
  - seleção de personagem e capítulo, controle, save/load;
  - lojas, ferreiro, itens, equipamentos, efeitos, itens-chave e lugares;
- - Game Over (Continuar/Sair);
- - mensagens de luta e a introdução "1788...".
-Ainda em inglês: nomes dos inimigos, frases a pincel da abertura,
-algumas falas que só existem na versão em inglês, abas do menu e "Level",
-alguns "Yes/No". Os nomes dos golpes ficam em inglês de propósito.
+ - abas do menu (Status, Itens, Golpes, Equipar, Opções), Nível e atributos
+   (FOR, ATQ, SOR, VEL, DEF, ESQ);
+ - tela de Ajustes (velocidade do texto e da luta, método de entrada dos golpes);
+ - nomes dos inimigos (120 traduzidos; nomes próprios ficam como são);
+ - mensagens de luta, Game Over (Continuar/Sair) e a introdução "1788...";
+ - Salvar?, Entrar?, Sim/Não e "Ir para (lugar)?".
+Ainda em inglês: as frases a pincel da abertura, algumas falas que só existem na
+versão em inglês, rótulos da tela de Golpes e os nomes dos ataques dos inimigos.
+Os nomes dos golpes ficam em inglês de propósito.
 
 Extra: START liga e desliga as lutas aleatórias no mapa (fora de luta). Toca um
 som de confirmar quando desliga e de cancelar quando liga. O jogo começa com as
@@ -38,11 +43,11 @@ COMO APLICAR
 ==============================================================================
 1. Aplique o patch em inglês na faixa 1, como o readme deles explica.
    A faixa 1 em inglês fica com CRC32 7AB83E03.
-2. Aplique SSRPG_PTBR_beta2.xdelta nessa faixa 1 em inglês.
+2. Aplique SSRPG_PTBR_beta3.xdelta nessa faixa 1 em inglês.
    - Com o .bat: ponha xdelta.exe, o .bat e este patch na pasta do jogo e rode
      "aplicar PTBR (sobre o ingles).bat".
-   - Com o Delta Patcher: original = faixa 1 em inglês; patch = SSRPG_PTBR_beta2.xdelta.
-3. A faixa 1 em português deve ficar com CRC32 F9E94E38. Use o mesmo .cue de sempre;
+   - Com o Delta Patcher: original = faixa 1 em inglês; patch = SSRPG_PTBR_beta3.xdelta.
+3. A faixa 1 em português deve ficar com CRC32 AE1A3A97. Use o mesmo .cue de sempre;
    as outras 31 faixas (áudio) não mudam.
 
 Hashes da faixa 1:
@@ -50,8 +55,8 @@ Hashes da faixa 1:
                      SHA-1 69da036e094a971a035c63c7b365179e031aea2c
   Inglês v1.10       CRC32 7AB83E03  MD5 8415b3bf52d2d481a5ea5cfb8dcaf29b
                      SHA-1 239b2b6d53749a4c38bbd228b96e7e1a4ac981d3
-  PT-BR beta 2       CRC32 F9E94E38  MD5 5cef3588a33d5b53b074684606ba108d
-                     SHA-1 449dd39148e42724eb035ce0bba0517a3d17e4f7
+  PT-BR beta 3       CRC32 AE1A3A97  MD5 83aa2ac0de63a930e1f27dca876bcee1
+                     SHA-1 eaa48f24916c37174f0ef59089e599fa7940f50b
 
 ==============================================================================
 ONDE JOGAR
